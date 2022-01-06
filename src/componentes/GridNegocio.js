@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 import { NegocioItem } from './NegocioItem'
 import './styles.css';
-import { boton } from './boton';
+
 
 
  const GridNegocio =  () => {
